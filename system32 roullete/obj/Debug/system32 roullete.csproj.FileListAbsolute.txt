@@ -1,0 +1,7 @@
+C:\Users\takei\source\repos\system32 roullete\system32 roullete\obj\Debug\system32 roullete.csproj.AssemblyReference.cache
+C:\Users\takei\source\repos\system32 roullete\system32 roullete\obj\Debug\system32 roullete.csproj.CoreCompileInputs.cache
+C:\Users\takei\source\repos\system32 roullete\system32 roullete\bin\Debug\system32 roullete.exe.config
+C:\Users\takei\source\repos\system32 roullete\system32 roullete\bin\Debug\system32 roullete.exe
+C:\Users\takei\source\repos\system32 roullete\system32 roullete\bin\Debug\system32 roullete.pdb
+C:\Users\takei\source\repos\system32 roullete\system32 roullete\obj\Debug\system32 roullete.exe
+C:\Users\takei\source\repos\system32 roullete\system32 roullete\obj\Debug\system32 roullete.pdb
